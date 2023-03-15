@@ -1,0 +1,15 @@
+C:\csharp\editor-html\editor-html\bin\Debug\net7.0\editor-html.exe
+C:\csharp\editor-html\editor-html\bin\Debug\net7.0\editor-html.deps.json
+C:\csharp\editor-html\editor-html\bin\Debug\net7.0\editor-html.runtimeconfig.json
+C:\csharp\editor-html\editor-html\bin\Debug\net7.0\editor-html.dll
+C:\csharp\editor-html\editor-html\bin\Debug\net7.0\editor-html.pdb
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.csproj.AssemblyReference.cache
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.AssemblyInfoInputs.cache
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.AssemblyInfo.cs
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.csproj.CoreCompileInputs.cache
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.dll
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\refint\editor-html.dll
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.pdb
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\editor-html.genruntimeconfig.cache
+C:\csharp\editor-html\editor-html\obj\Debug\net7.0\ref\editor-html.dll
